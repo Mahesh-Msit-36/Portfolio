@@ -1,0 +1,270 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="vsXL8UImQQToHNzRbblubmLmWDY0_jBigH2iBTsAtfs" />
+<title>
+     Numpy vs PyTorch for Linear Algebra
+    
+</title>
+<link type="application/atom+xml" rel="alternate" href="https://rickwierenga.com/feed.xml" title="Rick Wierenga" />
+<link href="/assets/stylesheets/main.css" rel="stylesheet">
+<meta name="description" content="A blog about whatever interests me.">
+<meta name="viewport" content="width=device-width">
+
+<title>Numpy vs PyTorch for Linear Algebra | Rick Wierenga</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Numpy vs PyTorch for Linear Algebra" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Numpy is one of the most popular linear algebra libraries right now. There’s also PyTorch - an open source deep learning framework developed by Facebook Research. While the latter is best known for its machine learning capabilities, it can also be used for linear algebra, just like Numpy." />
+<meta property="og:description" content="Numpy is one of the most popular linear algebra libraries right now. There’s also PyTorch - an open source deep learning framework developed by Facebook Research. While the latter is best known for its machine learning capabilities, it can also be used for linear algebra, just like Numpy." />
+<link rel="canonical" href="https://rickwierenga.com/blog/machine%20learning/numpy-vs-pytorch-linalg.html" />
+<meta property="og:url" content="https://rickwierenga.com/blog/machine%20learning/numpy-vs-pytorch-linalg.html" />
+<meta property="og:site_name" content="Rick Wierenga" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-08-08T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Numpy vs PyTorch for Linear Algebra" />
+<meta name="twitter:site" content="@rickwierenga" />
+<script type="application/ld+json">
+{"datePublished":"2019-08-08T00:00:00+00:00","description":"Numpy is one of the most popular linear algebra libraries right now. There’s also PyTorch - an open source deep learning framework developed by Facebook Research. While the latter is best known for its machine learning capabilities, it can also be used for linear algebra, just like Numpy.","url":"https://rickwierenga.com/blog/machine%20learning/numpy-vs-pytorch-linalg.html","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://rickwierenga.com/blog/machine%20learning/numpy-vs-pytorch-linalg.html"},"headline":"Numpy vs PyTorch for Linear Algebra","dateModified":"2019-08-08T00:00:00+00:00","@context":"https://schema.org"}</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143822145-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-143822145-1');
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+    displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+  }
+});
+</script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_SVG"></script>
+<link rel="stylesheet" href="/assets/stylesheets/post.css">
+</head>
+<body>
+<header id="header">
+<div class="container">
+<a href="/" class="title">
+<h1>Rick Wierenga</h1>
+<h2>A blog about whatever interests me.</h2>
+</a>
+<nav>
+<ul>
+<li><a href="/about" id="about">about</a></li>
+</ul>
+</nav>
+</div>
+</header>
+<div id="content">
+<div id="content-inside">
+<div class="container tight">
+<article class="post-content">
+<header>
+<p class="meta">August 08, 2019</p>
+<div class="titles">
+<h1>Numpy vs PyTorch for Linear Algebra</h1>
+<h2></h2>
+</div>
+</header>
+<p>Numpy is one of the most popular linear algebra libraries right now. There’s also PyTorch - an open source deep learning framework developed by Facebook Research. While the latter is best known for its machine learning capabilities, it can also be used for linear algebra, just like Numpy.</p>
+<p>The most important difference between the two frameworks is naming. Numpy calls tensors (high dimensional matrices or vectors) arrays while in PyTorch there’s just called tensors. Everything else is quite similar.</p>
+<h2 id="why-pytorch">Why PyTorch?</h2>
+<p>Even if you already know Numpy, there are still a couple of reasons to switch to PyTorch for tensor computation. The main reason is the GPU acceleration. As you’ll see, using a GPU with PyTorch is super easy and super fast. If you do large computations, this is beneficial because it speeds things up a lot.</p>
+<p>The other reason is the integration with other parts of the PyTorch framework. Most people use linear algebra for some kind of machine learning nowadays. In this case, using PyTorch is probably a better choice because the data can be used with the rest of the framework.</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">torch</span>
+</code></pre></div></div>
+<h2 id="why-numpy">Why Numpy?</h2>
+<p>Numpy is the most commonly used computing framework for linear algebra. A good use case of Numpy is quick experimentation and small projects because Numpy is a light weight framework compared to PyTorch.</p>
+<p>Moreover, PyTorch lacks a few advanced features as you’ll read below so it’s strongly recommended to use numpy in those cases.</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
+</code></pre></div></div>
+<h2 id="using-both">Using Both</h2>
+<p>Fortunately, using one framework doesn’t exclude the other. You can get the best of both worlds by converting between Numpy arrays and PyTorch tensors.</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Numpy -&gt; PyTorch
+</span><span class="n">tensor</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="n">from_numpy</span><span class="p">(</span><span class="n">np_array</span><span class="p">)</span>
+
+<span class="c1"># PyTorch -&gt; Numpy
+</span><span class="n">ndarray</span> <span class="o">=</span> <span class="n">tensor</span><span class="p">.</span><span class="n">numpy</span><span class="p">()</span>
+</code></pre></div></div>
+<h2 id="new-tensors">New tensors</h2>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">zeros</span>  <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">zeros</span><span class="p">((</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">))</span>
+<span class="n">ones</span>   <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">ones</span><span class="p">((</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">))</span>
+<span class="n">random</span> <span class="o">=</span> <span class="n">np</span><span class="p">.</span><span class="n">random</span><span class="p">.</span><span class="n">random</span><span class="p">((</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">))</span>
+</code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">zeros</span>  <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="n">zeros</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span>
+<span class="n">ones</span>   <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="n">ones</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span>
+<span class="n">random</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="n">rand</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="mi">4</span><span class="p">)</span>
+</code></pre></div></div>
+<h2 id="basic-linear-algebra">Basic Linear Algebra</h2>
+<h3 id="indexing">Indexing</h3>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Index item
+</span><span class="n">array</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">]</span> <span class="c1"># returns a float
+</span>
+<span class="c1"># Index row
+</span><span class="n">array</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="p">:]</span> <span class="c1"># returns an array
+</span></code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Index item
+</span><span class="n">torch</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">]</span> <span class="c1"># returns a tensor
+</span>
+<span class="c1"># Index row
+</span><span class="n">torch</span><span class="p">[</span><span class="mi">0</span><span class="p">,</span> <span class="p">:]</span> <span class="c1"># returns a tensor
+</span></code></pre></div></div>
+<h3 id="addition--subtraction">Addition &amp; subtraction</h3>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">array</span> <span class="o">+</span> <span class="n">array2</span>
+<span class="n">array</span> <span class="o">-</span> <span class="n">array2</span>
+</code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">tensor</span> <span class="o">+</span> <span class="n">tensor2</span>
+<span class="n">tensor</span> <span class="o">-</span> <span class="n">tensor2</span>
+</code></pre></div></div>
+<h3 id="element-wise-multiplication">(Element wise) multiplication</h3>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Element wise
+</span><span class="n">array</span> <span class="o">*</span> <span class="n">array</span>
+
+<span class="c1"># Matrix multiplication
+</span><span class="n">array</span> <span class="o">@</span> <span class="n">array</span>
+</code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Element wise
+</span><span class="n">tensor</span> <span class="o">*</span> <span class="n">tensor</span>
+
+<span class="c1"># Matrix multiplication
+</span><span class="n">tensor</span> <span class="o">@</span> <span class="n">tensor</span>
+</code></pre></div></div>
+<h3 id="shape-and-dimensions">Shape and dimensions</h3>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">shap</span>    <span class="o">=</span> <span class="n">array</span><span class="p">.</span><span class="n">shape</span>
+<span class="n">num_dim</span> <span class="o">=</span> <span class="n">array</span><span class="p">.</span><span class="n">ndim</span>
+</code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">shape</span>   <span class="o">=</span> <span class="n">tensor</span><span class="p">.</span><span class="n">shape</span>
+<span class="n">shape</span>   <span class="o">=</span> <span class="n">tensor</span><span class="p">.</span><span class="n">size</span><span class="p">()</span> <span class="c1"># equal to `.shape`
+</span><span class="n">num_dim</span> <span class="o">=</span> <span class="n">tensor</span><span class="p">.</span><span class="n">dim</span><span class="p">()</span>
+</code></pre></div></div>
+<h3 id="reshaping">Reshaping</h3>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">new_array</span> <span class="o">=</span> <span class="n">array</span><span class="p">.</span><span class="n">reshape</span><span class="p">((</span><span class="mi">8</span><span class="p">,</span> <span class="mi">2</span><span class="p">))</span>
+</code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">new_tensor</span> <span class="o">=</span> <span class="n">tensor</span><span class="p">.</span><span class="n">view</span><span class="p">(</span><span class="mi">8</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+</code></pre></div></div>
+<h3 id="determinant">Determinant</h3>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">np</span><span class="p">.</span><span class="n">linalg</span><span class="p">.</span><span class="n">det</span><span class="p">(</span><span class="n">array</span><span class="p">)</span>
+</code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># not natively supported
+</span></code></pre></div></div>
+<h3 id="inverse-and-moore-pensore-inverse">Inverse and Moore-Pensore inverse</h3>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Inverse
+</span><span class="n">np</span><span class="p">.</span><span class="n">linalg</span><span class="p">.</span><span class="n">inv</span><span class="p">(</span><span class="n">array</span><span class="p">)</span>
+
+<span class="c1"># Moore Pensore inverse
+</span><span class="n">np</span><span class="p">.</span><span class="n">linalg</span><span class="p">.</span><span class="n">pinv</span><span class="p">(</span><span class="n">array</span><span class="p">)</span>
+</code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Inverse
+</span><span class="n">tensor</span><span class="p">.</span><span class="n">inverse</span><span class="p">()</span>
+
+<span class="c1"># Moore Pensore inverse
+</span><span class="n">tensor</span><span class="p">.</span><span class="n">pinverse</span><span class="p">()</span>
+</code></pre></div></div>
+<h3 id="summeanstd">Sum/mean/std</h3>
+<p>These functions return floating point numbers in Numpy where PyTorch returns 1 by 1 tensors.</p>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Sum
+</span><span class="n">array</span><span class="p">.</span><span class="nb">sum</span><span class="p">()</span>
+
+<span class="c1"># Mean
+</span><span class="n">array</span><span class="p">.</span><span class="n">mean</span><span class="p">()</span>
+
+<span class="c1"># Standard Deviation
+</span><span class="n">array</span><span class="p">.</span><span class="n">std</span><span class="p">()</span>
+</code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Sum
+</span><span class="n">tensor</span><span class="p">.</span><span class="nb">sum</span><span class="p">()</span>
+
+<span class="c1"># Mean
+</span><span class="n">tensor</span><span class="p">.</span><span class="n">mean</span><span class="p">()</span>
+
+<span class="c1"># Standard Deviation
+</span><span class="n">tensor</span><span class="p">.</span><span class="n">std</span><span class="p">()</span>
+</code></pre></div></div>
+<h3 id="transpose">Transpose</h3>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">array</span><span class="p">.</span><span class="n">T</span>
+<span class="n">array</span><span class="p">.</span><span class="n">transpose</span><span class="p">()</span>
+</code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">tensor</span><span class="p">.</span><span class="n">t</span><span class="p">()</span>
+</code></pre></div></div>
+<h2 id="saving-to-disk">Saving to disk</h2>
+<p>Saving results to disk is a huge time server. Here’s how you’d do it in Numpy or PyTorch.</p>
+<p>Numpy:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">np</span><span class="p">.</span><span class="n">save</span><span class="p">(</span><span class="s">'file.npy'</span><span class="p">,</span> <span class="n">array</span><span class="p">)</span>
+<span class="n">np</span><span class="p">.</span><span class="n">load</span><span class="p">(</span><span class="s">'file.npy'</span><span class="p">)</span>
+</code></pre></div></div>
+<p>PyTorch:</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">torch</span><span class="p">.</span><span class="n">save</span><span class="p">(</span><span class="n">tensor</span><span class="p">,</span> <span class="s">'file'</span><span class="p">)</span>
+<span class="n">torch</span><span class="p">.</span><span class="n">load</span><span class="p">(</span><span class="s">'file'</span><span class="p">)</span>
+</code></pre></div></div>
+<h2 id="using-the-gpu">Using the GPU</h2>
+<p>This is where PyTorch really shines. By copying an array to the GPU memory, there’s a huge potential for performance improvements due to heavy parallelization. Note that PyTorch uses CUDA under the hood so only NVIDIA GPUs are supported.</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># put the tensor in GPU memory
+</span><span class="n">gpu_tensor</span> <span class="o">=</span> <span class="n">tensor</span><span class="p">.</span><span class="n">gpu</span><span class="p">()</span>
+</code></pre></div></div>
+<p>In Google Colab I got a 20.9 time speed up in multiplying a 10000 by 10000 matrix by a scaler when using the GPU.</p>
+<p>If you do an operation on two arrays, both must be either on the CPU or GPU.</p>
+<h2 id="further-reading">Further reading</h2>
+<ul>
+<li><a href="https://pytorch.org/docs/stable/tensors.html">PyTorch Tensor Documentation</a></li>
+<li><a href="https://docs.scipy.org/doc/numpy/reference/arrays.html">Numpy Array Documentation</a></li>
+</ul>
+<p>If there’s anything you’d like to see added, tweet me at <a href="https://twitter.com/rickwierenga">@rickwierenga</a>.</p>
+<p class="text-muted">A huge thanks to <a target="_blank" href="https://twitter.com/miserendino_sam">Sam Miserendino</a> for proofreading this post!</p>
+<h2>Thanks for reading</h2>
+<p>I hope this post was useful to you. If you have any questions or comments, feel free to <a href="https://twitter.com/rickwierenga">reach out on Twitter</a> or email me directly at rick_wierenga [at] icloud [dot] com.</p>
+</article>
+<div class="comments">
+<script src="https://utteranc.es/client.js" repo="rickwierenga/rickwierenga.github.io" issue-term="pathname" label="Comment" theme="github-light" crossorigin="anonymous" async></script>
+</div>
+<div class="twitter">
+<a href="https://twitter.com/intent/tweet?url=https://rickwierenga.com%2Fblog%2Fmachine%2520learning%2Fnumpy-vs-pytorch-linalg.html&text=Numpy vs PyTorch for Linear Algebra&via=rickwierenga" target="_blank" class="tweet">
+<span>Please share! </span>
+<span>
+<svg viewBox="0 0 33 33" width="20" height="20" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g>
+<path d="M 32,6.076c-1.177,0.522-2.443,0.875-3.771,1.034c 1.355-0.813, 2.396-2.099, 2.887-3.632 c-1.269,0.752-2.674,1.299-4.169,1.593c-1.198-1.276-2.904-2.073-4.792-2.073c-3.626,0-6.565,2.939-6.565,6.565 c0,0.515, 0.058,1.016, 0.17,1.496c-5.456-0.274-10.294-2.888-13.532-6.86c-0.565,0.97-0.889,2.097-0.889,3.301 c0,2.278, 1.159,4.287, 2.921,5.465c-1.076-0.034-2.088-0.329-2.974-0.821c-0.001,0.027-0.001,0.055-0.001,0.083 c0,3.181, 2.263,5.834, 5.266,6.438c-0.551,0.15-1.131,0.23-1.73,0.23c-0.423,0-0.834-0.041-1.235-0.118 c 0.836,2.608, 3.26,4.506, 6.133,4.559c-2.247,1.761-5.078,2.81-8.154,2.81c-0.53,0-1.052-0.031-1.566-0.092 c 2.905,1.863, 6.356,2.95, 10.064,2.95c 12.076,0, 18.679-10.004, 18.679-18.68c0-0.285-0.006-0.568-0.019-0.849 C 30.007,8.548, 31.12,7.392, 32,6.076z"></path>
+</g>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<p><a href="https://github.com/rickwierenga/rickwierenga.github.io">Source Code</a> &middot; <a href="https://twitter.com/rickwierenga"> Follow @rickwierenga on Twitter</a> &middot; <a href="/feed.xml">RSS Feed</a></p>
+<p class="copyright">&copy; 2019-2021 Rick Wierenga</p>
+</div>
+</footer>
+</body>
+</html>

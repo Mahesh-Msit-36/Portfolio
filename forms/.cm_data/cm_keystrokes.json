@@ -1,0 +1,1768 @@
+{
+    "contact.php": [
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:09",
+            "keyStrokeInfo": "s",
+            "position": "10,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:09",
+            "keyStrokeInfo": "a",
+            "position": "10,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:09",
+            "keyStrokeInfo": "m",
+            "position": "10,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:10",
+            "keyStrokeInfo": "e",
+            "position": "10,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:10",
+            "keyStrokeInfo": "e",
+            "position": "10,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:10",
+            "keyStrokeInfo": "r",
+            "position": "10,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:10",
+            "keyStrokeInfo": "s",
+            "position": "10,37"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:10",
+            "keyStrokeInfo": "h",
+            "position": "10,38"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:11",
+            "keyStrokeInfo": "a",
+            "position": "10,39"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:11",
+            "keyStrokeInfo": "i",
+            "position": "10,40"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:11",
+            "keyStrokeInfo": "k",
+            "position": "10,41"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:11",
+            "keyStrokeInfo": "6",
+            "position": "10,42"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:11",
+            "keyStrokeInfo": "5",
+            "position": "10,43"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:12",
+            "keyStrokeInfo": "@",
+            "position": "10,44"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:12",
+            "keyStrokeInfo": "g",
+            "position": "10,45"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:12",
+            "keyStrokeInfo": "m",
+            "position": "10,46"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:12",
+            "keyStrokeInfo": "a",
+            "position": "10,47"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:12",
+            "keyStrokeInfo": "i",
+            "position": "10,48"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:13",
+            "keyStrokeInfo": "l",
+            "position": "10,49"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:13",
+            "keyStrokeInfo": ".",
+            "position": "10,50"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:13",
+            "keyStrokeInfo": "c",
+            "position": "10,51"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:13",
+            "keyStrokeInfo": "o",
+            "position": "10,52"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:17:13",
+            "keyStrokeInfo": "m",
+            "position": "10,53"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:20:35",
+            "keyStrokeInfo": "\r\n    ",
+            "position": "12,94"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 6,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:20:36",
+            "keyStrokeInfo": "mail($to_email_address,$subject,$message,[$headers],[$parameters]);",
+            "position": "13,5"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 2,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:21:09",
+            "keyStrokeInfo": "$receiving_email_address",
+            "position": "13,11"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:21:11",
+            "keyStrokeInfo": "",
+            "position": "13,10"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:24:01",
+            "keyStrokeInfo": "0",
+            "position": "39,58"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:24:01",
+            "keyStrokeInfo": "0",
+            "position": "39,59"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:24:09",
+            "keyStrokeInfo": "",
+            "position": "39,59"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 3,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:26:30",
+            "keyStrokeInfo": "  $contact->subject = $_POST['subject'];",
+            "position": "26,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:26:31",
+            "keyStrokeInfo": "M",
+            "position": "26,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:26:32",
+            "keyStrokeInfo": "e",
+            "position": "26,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:26:32",
+            "keyStrokeInfo": "s",
+            "position": "26,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:26:32",
+            "keyStrokeInfo": "s",
+            "position": "26,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:26:32",
+            "keyStrokeInfo": "a",
+            "position": "26,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:26:33",
+            "keyStrokeInfo": "g",
+            "position": "26,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:26:33",
+            "keyStrokeInfo": "e",
+            "position": "26,37"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:26:45",
+            "keyStrokeInfo": "Message",
+            "position": "26,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:27:00",
+            "keyStrokeInfo": "message",
+            "position": "26,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:27:09",
+            "keyStrokeInfo": "message",
+            "position": "26,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:28:07",
+            "keyStrokeInfo": "`",
+            "position": "39,57"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:28:08",
+            "keyStrokeInfo": "",
+            "position": "39,57"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:28:08",
+            "keyStrokeInfo": "",
+            "position": "39,56"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:28:09",
+            "keyStrokeInfo": "2",
+            "position": "39,56"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 27,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:25",
+            "keyStrokeInfo": "<?php $name = $_POST['name'];\r\n$email = $_POST['email'];\r\n$message = $_POST['message'];\r\n$formcontent=\"From: $name \\n Message: $message\";\r\n$recipient = \"emailaddress@here.com\";\r\n$subject = \"Contact Form\";\r\n$mailheader = \"From: $email \\r\\n\";\r\nmail($recipient, $subject, $formcontent, $mailheader) or die(\"Error!\");\r\necho \"Thank You!\";\r\n?>",
+            "position": "1,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:33",
+            "keyStrokeInfo": "s",
+            "position": "5,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:33",
+            "keyStrokeInfo": "a",
+            "position": "5,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:33",
+            "keyStrokeInfo": "m",
+            "position": "5,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:33",
+            "keyStrokeInfo": "e",
+            "position": "5,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:33",
+            "keyStrokeInfo": "e",
+            "position": "5,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:34",
+            "keyStrokeInfo": "r",
+            "position": "5,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:34",
+            "keyStrokeInfo": "s",
+            "position": "5,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:34",
+            "keyStrokeInfo": "h",
+            "position": "5,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:34",
+            "keyStrokeInfo": "a",
+            "position": "5,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:34",
+            "keyStrokeInfo": "i",
+            "position": "5,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:34",
+            "keyStrokeInfo": "k",
+            "position": "5,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:35",
+            "keyStrokeInfo": "6",
+            "position": "5,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:35",
+            "keyStrokeInfo": "5",
+            "position": "5,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:36",
+            "keyStrokeInfo": "@",
+            "position": "5,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:36",
+            "keyStrokeInfo": "g",
+            "position": "5,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:37",
+            "keyStrokeInfo": "m",
+            "position": "5,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:37",
+            "keyStrokeInfo": "a",
+            "position": "5,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:37",
+            "keyStrokeInfo": "i",
+            "position": "5,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:37",
+            "keyStrokeInfo": "l",
+            "position": "5,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:37",
+            "keyStrokeInfo": ".",
+            "position": "5,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:37",
+            "keyStrokeInfo": "c",
+            "position": "5,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:38",
+            "keyStrokeInfo": "o",
+            "position": "5,37"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:34:38",
+            "keyStrokeInfo": "m",
+            "position": "5,38"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 48,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:28",
+            "keyStrokeInfo": "<?php\r\n$name = $_POST['name'];\r\n$email = $_POST['email'];\r\n$phone = $_POST['phone'];\r\n$call = $_POST['call'];\r\n$website = $_POST['website'];\r\n$priority = $_POST['priority'];\r\n$type = $_POST['type'];\r\n$message = $_POST['message'];\r\n$formcontent=\" From: $name \\n Phone: $phone \\n Call Back: $call \\n Website: $website \\n Priority: $priority \\n Type: $type \\n Message: $message\";\r\n$recipient = \"youremail@here.com\";\r\n$subject = \"Contact Form\";\r\n$mailheader = \"From: $email \\r\\n\";\r\nmail($recipient, $subject, $formcontent, $mailheader) or die(\"Error!\");\r\necho \"Thank You!\";\r\n?>",
+            "position": "1,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:41",
+            "keyStrokeInfo": "s",
+            "position": "11,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:41",
+            "keyStrokeInfo": "a",
+            "position": "11,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:41",
+            "keyStrokeInfo": "m",
+            "position": "11,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:41",
+            "keyStrokeInfo": "e",
+            "position": "11,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:42",
+            "keyStrokeInfo": "e",
+            "position": "11,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:42",
+            "keyStrokeInfo": "r",
+            "position": "11,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:42",
+            "keyStrokeInfo": "s",
+            "position": "11,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:43",
+            "keyStrokeInfo": "h",
+            "position": "11,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:43",
+            "keyStrokeInfo": "a",
+            "position": "11,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:43",
+            "keyStrokeInfo": "i",
+            "position": "11,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:43",
+            "keyStrokeInfo": "k",
+            "position": "11,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:43",
+            "keyStrokeInfo": "6",
+            "position": "11,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:43",
+            "keyStrokeInfo": "5",
+            "position": "11,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:44",
+            "keyStrokeInfo": "@",
+            "position": "11,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:45",
+            "keyStrokeInfo": "g",
+            "position": "11,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:45",
+            "keyStrokeInfo": "m",
+            "position": "11,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:45",
+            "keyStrokeInfo": "a",
+            "position": "11,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:45",
+            "keyStrokeInfo": "i",
+            "position": "11,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:45",
+            "keyStrokeInfo": "l",
+            "position": "11,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:46",
+            "keyStrokeInfo": ".",
+            "position": "11,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:46",
+            "keyStrokeInfo": "c",
+            "position": "11,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:46",
+            "keyStrokeInfo": "o",
+            "position": "11,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:36:46",
+            "keyStrokeInfo": "m",
+            "position": "11,37"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:37:03",
+            "keyStrokeInfo": "s",
+            "position": "12,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:37:03",
+            "keyStrokeInfo": "u",
+            "position": "12,14"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:37:03",
+            "keyStrokeInfo": "b",
+            "position": "12,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:37:03",
+            "keyStrokeInfo": "j",
+            "position": "12,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:37:03",
+            "keyStrokeInfo": "e",
+            "position": "12,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:37:04",
+            "keyStrokeInfo": "t",
+            "position": "12,18"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 35,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:38:22",
+            "keyStrokeInfo": "<?php\r\nif(!empty($_POST[\"send\"])) {\r\n\t$name = $_POST[\"userName\"];\r\n\t$email = $_POST[\"userEmail\"];\r\n\t$subject = $_POST[\"subject\"];\r\n\t$content = $_POST[\"content\"];\r\n\r\n\t$toEmail = \"admin@phppot_samples.com\";\r\n\t$mailHeaders = \"From: \" . $name . \"<\". $email .\">\\r\\n\";\r\n\tif(mail($toEmail, $subject, $content, $mailHeaders)) {\r\n\t    $message = \"Your contact information is received successfully.\";\r\n\t    $type = \"success\";\r\n\t}\r\n}\r\nrequire_once \"contact-view.php\";\r\n?>",
+            "position": "1,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:34",
+            "keyStrokeInfo": "n",
+            "position": "3,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:34",
+            "keyStrokeInfo": "a",
+            "position": "3,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:34",
+            "keyStrokeInfo": "m",
+            "position": "3,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:34",
+            "keyStrokeInfo": "e",
+            "position": "3,21"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:36",
+            "keyStrokeInfo": "",
+            "position": "4,23"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:36",
+            "keyStrokeInfo": "",
+            "position": "4,22"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:36",
+            "keyStrokeInfo": "",
+            "position": "4,21"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:36",
+            "keyStrokeInfo": "",
+            "position": "4,20"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:37",
+            "keyStrokeInfo": "",
+            "position": "4,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:37",
+            "keyStrokeInfo": "e",
+            "position": "4,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:40",
+            "keyStrokeInfo": "m",
+            "position": "6,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:40",
+            "keyStrokeInfo": "e",
+            "position": "6,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:40",
+            "keyStrokeInfo": "s",
+            "position": "6,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:40",
+            "keyStrokeInfo": "s",
+            "position": "6,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:40",
+            "keyStrokeInfo": "a",
+            "position": "6,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:40",
+            "keyStrokeInfo": "g",
+            "position": "6,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:41",
+            "keyStrokeInfo": "e",
+            "position": "6,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:45",
+            "keyStrokeInfo": "s",
+            "position": "8,14"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:45",
+            "keyStrokeInfo": "a",
+            "position": "8,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:46",
+            "keyStrokeInfo": "m",
+            "position": "8,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:46",
+            "keyStrokeInfo": "e",
+            "position": "8,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:46",
+            "keyStrokeInfo": "e",
+            "position": "8,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:46",
+            "keyStrokeInfo": "r",
+            "position": "8,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:46",
+            "keyStrokeInfo": "s",
+            "position": "8,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:47",
+            "keyStrokeInfo": "h",
+            "position": "8,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:47",
+            "keyStrokeInfo": "a",
+            "position": "8,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:47",
+            "keyStrokeInfo": "i",
+            "position": "8,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:47",
+            "keyStrokeInfo": "k",
+            "position": "8,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:47",
+            "keyStrokeInfo": "6",
+            "position": "8,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:48",
+            "keyStrokeInfo": "5",
+            "position": "8,26"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:51",
+            "keyStrokeInfo": "",
+            "position": "8,45"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:51",
+            "keyStrokeInfo": "",
+            "position": "8,44"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:51",
+            "keyStrokeInfo": "",
+            "position": "8,43"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:51",
+            "keyStrokeInfo": "",
+            "position": "8,42"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:51",
+            "keyStrokeInfo": "",
+            "position": "8,41"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:51",
+            "keyStrokeInfo": "",
+            "position": "8,40"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:51",
+            "keyStrokeInfo": "",
+            "position": "8,39"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:51",
+            "keyStrokeInfo": "",
+            "position": "8,38"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:52",
+            "keyStrokeInfo": "",
+            "position": "8,37"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:52",
+            "keyStrokeInfo": "",
+            "position": "8,36"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:52",
+            "keyStrokeInfo": "",
+            "position": "8,35"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:52",
+            "keyStrokeInfo": "",
+            "position": "8,34"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:52",
+            "keyStrokeInfo": "",
+            "position": "8,33"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:52",
+            "keyStrokeInfo": "",
+            "position": "8,32"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:52",
+            "keyStrokeInfo": "",
+            "position": "8,31"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:52",
+            "keyStrokeInfo": "",
+            "position": "8,30"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:52",
+            "keyStrokeInfo": "",
+            "position": "8,29"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:52",
+            "keyStrokeInfo": "",
+            "position": "8,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:53",
+            "keyStrokeInfo": "g",
+            "position": "8,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:54",
+            "keyStrokeInfo": "m",
+            "position": "8,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:54",
+            "keyStrokeInfo": "a",
+            "position": "8,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:54",
+            "keyStrokeInfo": "i",
+            "position": "8,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:54",
+            "keyStrokeInfo": "l",
+            "position": "8,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:54",
+            "keyStrokeInfo": ".",
+            "position": "8,33"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:54",
+            "keyStrokeInfo": "c",
+            "position": "8,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:55",
+            "keyStrokeInfo": "o",
+            "position": "8,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:39:55",
+            "keyStrokeInfo": "m",
+            "position": "8,36"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:26",
+            "keyStrokeInfo": "",
+            "position": "8,28"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:27",
+            "keyStrokeInfo": "phppot_samples.com",
+            "position": "8,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:27",
+            "keyStrokeInfo": "admin",
+            "position": "8,14"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:27",
+            "keyStrokeInfo": "content",
+            "position": "6,21"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:28",
+            "keyStrokeInfo": "",
+            "position": "4,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:28",
+            "keyStrokeInfo": "userE",
+            "position": "4,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:28",
+            "keyStrokeInfo": "userName",
+            "position": "3,18"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 48,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:28",
+            "keyStrokeInfo": "<?php\r\n$name = $_POST['name'];\r\n$email = $_POST['email'];\r\n$phone = $_POST['phone'];\r\n$call = $_POST['call'];\r\n$website = $_POST['website'];\r\n$priority = $_POST['priority'];\r\n$type = $_POST['type'];\r\n$message = $_POST['message'];\r\n$formcontent=\" From: $name \\n Phone: $phone \\n Call Back: $call \\n Website: $website \\n Priority: $priority \\n Type: $type \\n Message: $message\";\r\n$recipient = \"sameershaik65@gmail.com\";\r\n$subject = \"subjet\";\r\n$mailheader = \"From: $email \\r\\n\";\r\nmail($recipient, $subject, $formcontent, $mailheader) or die(\"Error!\");\r\necho \"Thank You!\";\r\n?>",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:28",
+            "keyStrokeInfo": "Contact Form",
+            "position": "12,13"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:28",
+            "keyStrokeInfo": "youremail@here.com",
+            "position": "11,15"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 27,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:28",
+            "keyStrokeInfo": "<?php $name = $_POST['name'];\r\n$email = $_POST['email'];\r\n$message = $_POST['message'];\r\n$formcontent=\"From: $name \\n Message: $message\";\r\n$recipient = \"esameershaik65@gmail.com\";\r\n$subject = \"Contact Form\";\r\n$mailheader = \"From: $email \\r\\n\";\r\nmail($recipient, $subject, $formcontent, $mailheader) or die(\"Error!\");\r\necho \"Thank You!\";\r\n?>",
+            "position": "1,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:28",
+            "keyStrokeInfo": "",
+            "position": "5,30"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:29",
+            "keyStrokeInfo": "",
+            "position": "5,29"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:29",
+            "keyStrokeInfo": "mailaddress@here.com",
+            "position": "5,16"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 70,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:29",
+            "keyStrokeInfo": "<?php\r\n  /**\r\n  * Requires the \"PHP Email Form\" library\r\n  * The \"PHP Email Form\" library is available only in the pro version of the template\r\n  * The library should be uploaded to: vendor/php-email-form/php-email-form.php\r\n  * For more info and help: https://bootstrapmade.com/php-email-form/\r\n  */\r\n\r\n  // Replace contact@example.com with your real receiving email address\r\n  $receiving_email_address = 'sameershaik65@gmail.com';\r\n\r\n  if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {\r\n    mail($receiving_email_address,$subject,$message,[$headers],[$parameters]);\r\n    include( $php_email_form );\r\n  } else {\r\n    die( 'Unable to load the \"PHP Email Form\" Library!');\r\n  }\r\n\r\n  $contact = new PHP_Email_Form;\r\n  $contact->ajax = true;\r\n  \r\n  $contact->to = $receiving_email_address;\r\n  $contact->from_name = $_POST['name'];\r\n  $contact->from_email = $_POST['email'];\r\n  $contact->subject = $_POST['subject'];\r\n  $contact->message = $_POST['message'];\r\n  // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials\r\n  /*\r\n  $contact->smtp = array(\r\n    'host' => 'example.com',\r\n    'username' => 'example',\r\n    'password' => 'pass',\r\n    'port' => '587'\r\n  );\r\n  */\r\n\r\n  $contact->add_message( $_POST['name'], 'From');\r\n  $contact->add_message( $_POST['email'], 'Email');\r\n  $contact->add_message( $_POST['message'], 'Message', 200);\r\n\r\n  echo $contact->send();\r\n?>\r\n",
+            "position": "1,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:29",
+            "keyStrokeInfo": "",
+            "position": "39,56"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:31",
+            "keyStrokeInfo": "2",
+            "position": "39,56"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 27,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:32",
+            "keyStrokeInfo": "<?php $name = $_POST['name'];\r\n$email = $_POST['email'];\r\n$message = $_POST['message'];\r\n$formcontent=\"From: $name \\n Message: $message\";\r\n$recipient = \"emailaddress@here.com\";\r\n$subject = \"Contact Form\";\r\n$mailheader = \"From: $email \\r\\n\";\r\nmail($recipient, $subject, $formcontent, $mailheader) or die(\"Error!\");\r\necho \"Thank You!\";\r\n?>",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 70,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:40:33",
+            "keyStrokeInfo": "<?php\r\n  /**\r\n  * Requires the \"PHP Email Form\" library\r\n  * The \"PHP Email Form\" library is available only in the pro version of the template\r\n  * The library should be uploaded to: vendor/php-email-form/php-email-form.php\r\n  * For more info and help: https://bootstrapmade.com/php-email-form/\r\n  */\r\n\r\n  // Replace contact@example.com with your real receiving email address\r\n  $receiving_email_address = 'sameershaik65@gmail.com';\r\n\r\n  if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {\r\n    mail($receiving_email_address,$subject,$message,[$headers],[$parameters]);\r\n    include( $php_email_form );\r\n  } else {\r\n    die( 'Unable to load the \"PHP Email Form\" Library!');\r\n  }\r\n\r\n  $contact = new PHP_Email_Form;\r\n  $contact->ajax = true;\r\n  \r\n  $contact->to = $receiving_email_address;\r\n  $contact->from_name = $_POST['name'];\r\n  $contact->from_email = $_POST['email'];\r\n  $contact->subject = $_POST['subject'];\r\n  $contact->message = $_POST['message'];\r\n  // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials\r\n  /*\r\n  $contact->smtp = array(\r\n    'host' => 'example.com',\r\n    'username' => 'example',\r\n    'password' => 'pass',\r\n    'port' => '587'\r\n  );\r\n  */\r\n\r\n  $contact->add_message( $_POST['name'], 'From');\r\n  $contact->add_message( $_POST['email'], 'Email');\r\n  $contact->add_message( $_POST['message'], 'Message', 200);\r\n\r\n  echo $contact->send();\r\n?>\r\n",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 150,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:18",
+            "keyStrokeInfo": "<?php\r\n\r\n$errors = [];\r\n$errorMessage = '';\r\n\r\nif (!empty($_POST)) {\r\n    $name = $_POST['name'];\r\n    $email = $_POST['email'];\r\n    $message = $_POST['message'];\r\n\r\n    if (empty($name)) {\r\n        $errors[] = 'Name is empty';\r\n    }\r\n\r\n    if (empty($email)) {\r\n        $errors[] = 'Email is empty';\r\n    } else if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {\r\n        $errors[] = 'Email is invalid';\r\n    }\r\n\r\n    if (empty($message)) {\r\n        $errors[] = 'Message is empty';\r\n    }\r\n\r\n\r\n    if (empty($errors)) {\r\n        $toEmail = 'example@example.com';\r\n        $emailSubject = 'New email from your contant form';\r\n        $headers = ['From' => $email, 'Reply-To' => $email, 'Content-type' => 'text/html; charset=iso-8859-1'];\r\n\r\n        $bodyParagraphs = [\"Name: {$name}\", \"Email: {$email}\", \"Message:\", $message];\r\n        $body = join(PHP_EOL, $bodyParagraphs);\r\n\r\n        if (mail($toEmail, $emailSubject, $body, $headers)) {\r\n            header('Location: thank-you.html');\r\n        } else {\r\n            $errorMessage = 'Oops, something went wrong. Please try again later';\r\n        }\r\n    } else {\r\n        $allErrors = join('<br/>', $errors);\r\n        $errorMessage = \"<p style='color: red;'>{$allErrors}</p>\";\r\n    }\r\n}\r\n\r\n?>\r\n\r\n<html>\r\n<body>\r\n  <form action=\"/mail_form.php\" method=\"post\" id=\"contact-form\">\r\n    <h2>Contact us</h2>\r\n\r\n    <?php echo((!empty($errorMessage)) ? $errorMessage : '') ?>\r\n    <p>\r\n      <label>First Name:</label>\r\n      <input name=\"name\" type=\"text\" value=\"dima\"/>\r\n    </p>\r\n    <p>\r\n      <label>Email Address:</label>\r\n      <input style=\"cursor: pointer;\" name=\"email\" value=\"dima@dima.com\" type=\"text\"/>\r\n    </p>\r\n    <p>\r\n      <label>Message:</label>\r\n      <textarea name=\"message\">dima</textarea>\r\n    </p>\r\n\r\n    <p>\r\n      <input type=\"submit\" value=\"Send\"/>\r\n    </p>\r\n  </form>\r\n  <script src=\"//cdnjs.cloudflare.com/ajax/libs/validate.js/0.13.1/validate.min.js\"></script>\r\n  <script>\r\n      const constraints = {\r\n          name: {\r\n              presence: { allowEmpty: false }\r\n          },\r\n          email: {\r\n              presence: { allowEmpty: false },\r\n              email: true\r\n          },\r\n          message: {\r\n              presence: { allowEmpty: false }\r\n          }\r\n      };\r\n\r\n      const form = document.getElementById('contact-form');\r\n\r\n      form.addEventListener('submit', function (event) {\r\n          const formValues = {\r\n              name: form.elements.name.value,\r\n              email: form.elements.email.value,\r\n              message: form.elements.message.value\r\n          };\r\n\r\n          const errors = validate(formValues, constraints);\r\n\r\n          if (errors) {\r\n              event.preventDefault();\r\n              const errorMessage = Object\r\n                  .values(errors)\r\n                  .map(function (fieldValues) {\r\n                      return fieldValues.join(', ')\r\n                  })\r\n                  .join(\"\\n\");\r\n\r\n              alert(errorMessage);\r\n          }\r\n      }, false);\r\n  </script>\r\n</body>\r\n</html>",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 70,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:25",
+            "keyStrokeInfo": "<?php\r\n  /**\r\n  * Requires the \"PHP Email Form\" library\r\n  * The \"PHP Email Form\" library is available only in the pro version of the template\r\n  * The library should be uploaded to: vendor/php-email-form/php-email-form.php\r\n  * For more info and help: https://bootstrapmade.com/php-email-form/\r\n  */\r\n\r\n  // Replace contact@example.com with your real receiving email address\r\n  $receiving_email_address = 'sameershaik65@gmail.com';\r\n\r\n  if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {\r\n    mail($receiving_email_address,$subject,$message,[$headers],[$parameters]);\r\n    include( $php_email_form );\r\n  } else {\r\n    die( 'Unable to load the \"PHP Email Form\" Library!');\r\n  }\r\n\r\n  $contact = new PHP_Email_Form;\r\n  $contact->ajax = true;\r\n  \r\n  $contact->to = $receiving_email_address;\r\n  $contact->from_name = $_POST['name'];\r\n  $contact->from_email = $_POST['email'];\r\n  $contact->subject = $_POST['subject'];\r\n  $contact->message = $_POST['message'];\r\n  // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials\r\n  /*\r\n  $contact->smtp = array(\r\n    'host' => 'example.com',\r\n    'username' => 'example',\r\n    'password' => 'pass',\r\n    'port' => '587'\r\n  );\r\n  */\r\n\r\n  $contact->add_message( $_POST['name'], 'From');\r\n  $contact->add_message( $_POST['email'], 'Email');\r\n  $contact->add_message( $_POST['message'], 'Message', 200);\r\n\r\n  echo $contact->send();\r\n?>\r\n",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 150,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:27",
+            "keyStrokeInfo": "<?php\r\n\r\n$errors = [];\r\n$errorMessage = '';\r\n\r\nif (!empty($_POST)) {\r\n    $name = $_POST['name'];\r\n    $email = $_POST['email'];\r\n    $message = $_POST['message'];\r\n\r\n    if (empty($name)) {\r\n        $errors[] = 'Name is empty';\r\n    }\r\n\r\n    if (empty($email)) {\r\n        $errors[] = 'Email is empty';\r\n    } else if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {\r\n        $errors[] = 'Email is invalid';\r\n    }\r\n\r\n    if (empty($message)) {\r\n        $errors[] = 'Message is empty';\r\n    }\r\n\r\n\r\n    if (empty($errors)) {\r\n        $toEmail = 'example@example.com';\r\n        $emailSubject = 'New email from your contant form';\r\n        $headers = ['From' => $email, 'Reply-To' => $email, 'Content-type' => 'text/html; charset=iso-8859-1'];\r\n\r\n        $bodyParagraphs = [\"Name: {$name}\", \"Email: {$email}\", \"Message:\", $message];\r\n        $body = join(PHP_EOL, $bodyParagraphs);\r\n\r\n        if (mail($toEmail, $emailSubject, $body, $headers)) {\r\n            header('Location: thank-you.html');\r\n        } else {\r\n            $errorMessage = 'Oops, something went wrong. Please try again later';\r\n        }\r\n    } else {\r\n        $allErrors = join('<br/>', $errors);\r\n        $errorMessage = \"<p style='color: red;'>{$allErrors}</p>\";\r\n    }\r\n}\r\n\r\n?>\r\n\r\n<html>\r\n<body>\r\n  <form action=\"/mail_form.php\" method=\"post\" id=\"contact-form\">\r\n    <h2>Contact us</h2>\r\n\r\n    <?php echo((!empty($errorMessage)) ? $errorMessage : '') ?>\r\n    <p>\r\n      <label>First Name:</label>\r\n      <input name=\"name\" type=\"text\" value=\"dima\"/>\r\n    </p>\r\n    <p>\r\n      <label>Email Address:</label>\r\n      <input style=\"cursor: pointer;\" name=\"email\" value=\"dima@dima.com\" type=\"text\"/>\r\n    </p>\r\n    <p>\r\n      <label>Message:</label>\r\n      <textarea name=\"message\">dima</textarea>\r\n    </p>\r\n\r\n    <p>\r\n      <input type=\"submit\" value=\"Send\"/>\r\n    </p>\r\n  </form>\r\n  <script src=\"//cdnjs.cloudflare.com/ajax/libs/validate.js/0.13.1/validate.min.js\"></script>\r\n  <script>\r\n      const constraints = {\r\n          name: {\r\n              presence: { allowEmpty: false }\r\n          },\r\n          email: {\r\n              presence: { allowEmpty: false },\r\n              email: true\r\n          },\r\n          message: {\r\n              presence: { allowEmpty: false }\r\n          }\r\n      };\r\n\r\n      const form = document.getElementById('contact-form');\r\n\r\n      form.addEventListener('submit', function (event) {\r\n          const formValues = {\r\n              name: form.elements.name.value,\r\n              email: form.elements.email.value,\r\n              message: form.elements.message.value\r\n          };\r\n\r\n          const errors = validate(formValues, constraints);\r\n\r\n          if (errors) {\r\n              event.preventDefault();\r\n              const errorMessage = Object\r\n                  .values(errors)\r\n                  .map(function (fieldValues) {\r\n                      return fieldValues.join(', ')\r\n                  })\r\n                  .join(\"\\n\");\r\n\r\n              alert(errorMessage);\r\n          }\r\n      }, false);\r\n  </script>\r\n</body>\r\n</html>",
+            "position": "1,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:36",
+            "keyStrokeInfo": "s",
+            "position": "27,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:36",
+            "keyStrokeInfo": "a",
+            "position": "27,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:36",
+            "keyStrokeInfo": "m",
+            "position": "27,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:36",
+            "keyStrokeInfo": "e",
+            "position": "27,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:37",
+            "keyStrokeInfo": "e",
+            "position": "27,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:37",
+            "keyStrokeInfo": "r",
+            "position": "27,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:37",
+            "keyStrokeInfo": "s",
+            "position": "27,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:37",
+            "keyStrokeInfo": "h",
+            "position": "27,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:37",
+            "keyStrokeInfo": "a",
+            "position": "27,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:37",
+            "keyStrokeInfo": "i",
+            "position": "27,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:38",
+            "keyStrokeInfo": "k",
+            "position": "27,31"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:38",
+            "keyStrokeInfo": "6",
+            "position": "27,32"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:39",
+            "keyStrokeInfo": "5",
+            "position": "27,33"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:42",
+            "keyStrokeInfo": "",
+            "position": "27,41"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:42",
+            "keyStrokeInfo": "",
+            "position": "27,40"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:42",
+            "keyStrokeInfo": "",
+            "position": "27,39"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:42",
+            "keyStrokeInfo": "",
+            "position": "27,38"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:43",
+            "keyStrokeInfo": "",
+            "position": "27,37"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:43",
+            "keyStrokeInfo": "",
+            "position": "27,36"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:43",
+            "keyStrokeInfo": "",
+            "position": "27,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:43",
+            "keyStrokeInfo": "g",
+            "position": "27,35"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:44",
+            "keyStrokeInfo": "a",
+            "position": "27,36"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:44",
+            "keyStrokeInfo": "",
+            "position": "27,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:45",
+            "keyStrokeInfo": "m",
+            "position": "27,36"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:45",
+            "keyStrokeInfo": "a",
+            "position": "27,37"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:45",
+            "keyStrokeInfo": "i",
+            "position": "27,38"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:42:45",
+            "keyStrokeInfo": "l",
+            "position": "27,39"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:04",
+            "keyStrokeInfo": "",
+            "position": "1,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 93,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:04",
+            "keyStrokeInfo": "<?php\r\nif(!isset($_POST['submit']))\r\n{\r\n\t//This page should not be accessed directly. Need to submit the form.\r\n\techo \"error; you need to submit the form!\";\r\n}\r\n$name = $_POST['name'];\r\n$visitor_email = $_POST['email'];\r\n$message = $_POST['message'];\r\n\r\n//Validate first\r\nif(empty($name)||empty($visitor_email)) \r\n{\r\n    echo \"Name and email are mandatory!\";\r\n    exit;\r\n}\r\n\r\nif(IsInjected($visitor_email))\r\n{\r\n    echo \"Bad email value!\";\r\n    exit;\r\n}\r\n\r\n$email_from = 'tom@amazing-designs.com';//<== update the email address\r\n$email_subject = \"New Form submission\";\r\n$email_body = \"You have received a new message from the user $name.\\n\".\r\n    \"Here is the message:\\n $message\".\r\n    \r\n$to = \"tom@amazing-designs.com\";//<== update the email address\r\n$headers = \"From: $email_from \\r\\n\";\r\n$headers .= \"Reply-To: $visitor_email \\r\\n\";\r\n//Send the email!\r\nmail($to,$email_subject,$email_body,$headers);\r\n//done. redirect to thank-you page.\r\nheader('Location: thank-you.html');\r\n\r\n\r\n// Function to validate against any email injection attempts\r\nfunction IsInjected($str)\r\n{\r\n  $injections = array('(\\n+)',\r\n              '(\\r+)',\r\n              '(\\t+)',\r\n              '(%0A+)',\r\n              '(%0D+)',\r\n              '(%08+)',\r\n              '(%09+)'\r\n              );\r\n  $inject = join('|', $injections);\r\n  $inject = \"/$inject/i\";\r\n  if(preg_match($inject,$str))\r\n    {\r\n    return true;\r\n  }\r\n  else\r\n    {\r\n    return false;\r\n  }\r\n}\r\n   \r\n?> ",
+            "position": "1,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:11",
+            "keyStrokeInfo": "s",
+            "position": "29,8"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:11",
+            "keyStrokeInfo": "a",
+            "position": "29,9"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:11",
+            "keyStrokeInfo": "m",
+            "position": "29,10"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:12",
+            "keyStrokeInfo": "e",
+            "position": "29,11"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:12",
+            "keyStrokeInfo": "e",
+            "position": "29,12"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:12",
+            "keyStrokeInfo": "r",
+            "position": "29,13"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:12",
+            "keyStrokeInfo": "s",
+            "position": "29,14"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:12",
+            "keyStrokeInfo": "h",
+            "position": "29,15"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:12",
+            "keyStrokeInfo": "a",
+            "position": "29,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:12",
+            "keyStrokeInfo": "i",
+            "position": "29,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:13",
+            "keyStrokeInfo": "k",
+            "position": "29,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:13",
+            "keyStrokeInfo": "6",
+            "position": "29,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:13",
+            "keyStrokeInfo": "5",
+            "position": "29,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:13",
+            "keyStrokeInfo": "@",
+            "position": "29,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:14",
+            "keyStrokeInfo": "g",
+            "position": "29,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:15",
+            "keyStrokeInfo": "m",
+            "position": "29,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:15",
+            "keyStrokeInfo": "a",
+            "position": "29,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:15",
+            "keyStrokeInfo": "i",
+            "position": "29,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:15",
+            "keyStrokeInfo": "l",
+            "position": "29,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:15",
+            "keyStrokeInfo": ".",
+            "position": "29,27"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:15",
+            "keyStrokeInfo": "c",
+            "position": "29,28"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:15",
+            "keyStrokeInfo": "o",
+            "position": "29,29"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:16",
+            "keyStrokeInfo": "m",
+            "position": "29,30"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:28",
+            "keyStrokeInfo": "m",
+            "position": "24,16"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:28",
+            "keyStrokeInfo": "",
+            "position": "24,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:28",
+            "keyStrokeInfo": "e",
+            "position": "24,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:29",
+            "keyStrokeInfo": "m",
+            "position": "24,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:29",
+            "keyStrokeInfo": "a",
+            "position": "24,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:29",
+            "keyStrokeInfo": "i",
+            "position": "24,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:30",
+            "keyStrokeInfo": "l",
+            "position": "24,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:33",
+            "keyStrokeInfo": "s",
+            "position": "25,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:34",
+            "keyStrokeInfo": "u",
+            "position": "25,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:34",
+            "keyStrokeInfo": "b",
+            "position": "25,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:35",
+            "keyStrokeInfo": "j",
+            "position": "25,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:35",
+            "keyStrokeInfo": "e",
+            "position": "25,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:35",
+            "keyStrokeInfo": "c",
+            "position": "25,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:35",
+            "keyStrokeInfo": "t",
+            "position": "25,25"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:40",
+            "keyStrokeInfo": "m",
+            "position": "26,16"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:41",
+            "keyStrokeInfo": "e",
+            "position": "26,17"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:41",
+            "keyStrokeInfo": "s",
+            "position": "26,18"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:41",
+            "keyStrokeInfo": "s",
+            "position": "26,19"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:41",
+            "keyStrokeInfo": "a",
+            "position": "26,20"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:41",
+            "keyStrokeInfo": "g",
+            "position": "26,21"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Sun May 09 2021 14:45:41",
+            "keyStrokeInfo": "e",
+            "position": "26,22"
+        }
+    ]
+}
